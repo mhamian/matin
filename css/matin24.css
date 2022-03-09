@@ -1,0 +1,149 @@
+@font-face {
+  font-family: yecan;
+  src: url(/BYekan.ttf);
+}
+@font-face {
+  font-family: tahoma;
+  src: url(/tahoma.ttf);
+}
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: yecan;
+}
+#div1 {
+  width: 69%;
+  height: 90px;
+  margin-left: 13.5%;
+  text-align: right;
+  background-color: #922c6a;
+}
+#div2 {
+  width: 83%;
+  height: 90px;
+  text-align: right;
+  background-color: #525151;
+}
+
+ul li {
+  display: inline;
+  padding: 13px;
+  font-weight: 100;
+}
+.a {
+  color: white;
+  font-size: 17px;
+  font-family: yecan;
+  text-decoration: none;
+}
+ul {
+  padding-top: 29px;
+}
+#div3 {
+  margin: 5px;
+  margin-left: 13.5%;
+  width: 20.3%;
+  height: 1400px;
+  background-color: #ffffff;
+  display: inline-block;
+  border: 6px solid #d2d2d2;
+  text-align: right;
+}
+#h3 {
+  margin-top: 20px;
+  margin-right: 15px;
+  font-family: tahoma;
+  margin: 20px;
+}
+pre {
+  font-family: tahoma;
+  margin: 10px;
+  opacity: 65%;
+}
+pre:hover {
+  opacity: 100%;
+}
+#div4 {
+  width: 31%;
+  height: 1680px;
+  background-color: #ffffff;
+  margin: 5px;
+  margin-top: 5px;
+  text-align: right;
+  padding: 24px;
+  display: inline-block;
+  border: 6px solid #d2d2d2;
+}
+#titr {
+  font-size: 22px;
+}
+#div5 {
+  margin: 5px;
+  height: 1400px;
+  width: 13.7%;
+  background-color: #ffffff;
+  display: inline-block;
+  border: 6px solid #d2d2d2;
+}
+#matn {
+  text-align: center;
+  font-weight: 100;
+  font-size: 15px;
+}
+#acc {
+  border-radius: 10px;
+}
+#div6 {
+  width: 100%;
+  height: 40px;
+  background-color: #d2d2d2;
+  text-align: center;
+}
+h2 {
+  font-size: 20px;
+  font-weight: 100;
+}
+audio {
+  width: 100%;
+}
+#a2 {
+  width: 100%;
+  height: 50px;
+  font-size: 30px;
+  background-color: #922c6a;
+  border-radius: 10px;
+}
+#a3 {
+  color: #ffffff;
+  text-decoration: none;
+}
+#li {
+  display: block;
+  text-align: right;
+}
+#div7{
+  background-color: #e2e2e2;
+  border: 6px solid #d2d2d2;
+  width: 100%;
+  height: 20px;
+}
+h5{
+  font-size: 22px;
+  text-align: right;
+}
+.in{
+  width: 44%;
+  height: 36px;
+margin: 10px;
+}
+#a4{
+  width: 95%;
+  height: 33px;
+  font-size: 30px;
+  background-color: #922c6a;
+  margin: 10px;
+}
+p{
+  color: white;
+  font-size: 20px;
+}
